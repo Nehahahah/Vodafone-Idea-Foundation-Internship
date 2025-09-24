@@ -37,7 +37,7 @@ The platform displays the following information:
 
 ## Installation & Setup
 1. Clone this repository:
-   git clone https://github.com/Nehahahah/vodafone-idea-foundation.git
+   git clone https://github.com/Nehahahah/Vodafone-Idea-Foundation-Internship.git
    
 2. Configure the .env file with your database credentials.
    
