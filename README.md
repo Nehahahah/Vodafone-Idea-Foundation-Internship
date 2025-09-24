@@ -1,5 +1,5 @@
 **Vodafone Idea Foundation**
-Vodafone Idea Foundation Financial Analysis Platform
+(Vodafone Idea Foundation Financial Analysis Platform)
 
 **Project Overview**
 
