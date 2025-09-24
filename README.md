@@ -1,14 +1,15 @@
-Vodafone Idea Foundation
+**Vodafone Idea Foundation**
 Vodafone Idea Foundation Financial Analysis Platform
-Project Overview
+
+**Project Overview**
 
 Vodafone Idea Foundation is a financial analysis platform that allows users to view detailed financial data about a company. The platform includes sections for the company overview, profit & loss statement, balance sheet, and cash flow data. This project is built using PHP for the backend and MySQL for the database.
 
-Features
+**Features**
 
 The platform displays the following information:
 
-Overview:
+**Overview:**
 
 Symbol (Company Short Name)
 
@@ -24,7 +25,7 @@ Website and stock exchange profiles (NSE & BSE)
 
 Face Value, Book Value, ROCE, and ROE
 
-Profit & Loss (Last 13 Years):
+**Profit & Loss (Last 13 Years):**
 
 Sales
 
@@ -36,10 +37,10 @@ EPS
 
 Dividend Payout %
 
-Balance Sheet (Last 13 Years):
+**Balance Sheet (Last 13 Years):**
 
 Equity Capital, Reserves, Borrowings, Total Liabilities, and Assets
 
-Cash Flow (Last 13 Years):
+**Cash Flow (Last 13 Years):**
 
 Cash from Operating, Investing, and Financing Activities
