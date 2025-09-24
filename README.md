@@ -1,46 +1,53 @@
-**Vodafone Idea Foundation**
-(Vodafone Idea Foundation Financial Analysis Platform)
+# Vodafone Idea Foundation
+# Vodafone Idea Foundation Financial Analysis Platform
 
-**Project Overview**
+## Project Overview
 
 Vodafone Idea Foundation is a financial analysis platform that allows users to view detailed financial data about a company. The platform includes sections for the company overview, profit & loss statement, balance sheet, and cash flow data. This project is built using PHP for the backend and MySQL for the database.
 
-**Features**
+## Features
 
 The platform displays the following information:
+1. **Overview**:
+   - Symbol (Company Short Name)
+   - Company Logo
+   - Company Name
+   - TradingView chart link
+   - Company description
+   - Website and stock exchange profiles (NSE & BSE)
+   - Face Value, Book Value, ROCE, and ROE
 
-**Overview:**
+2. **Profit & Loss** (Last 13 Years):
+   - Sales
+   - Operating Profit
+   - Net Profit
+   - EPS
+   - Dividend Payout %
 
-Symbol (Company Short Name)
+3. **Balance Sheet** (Last 13 Years):
+   - Equity Capital, Reserves, Borrowings, Total Liabilities, and Assets
 
-Company Logo
+4. **Cash Flow** (Last 13 Years):
+   - Cash from Operating, Investing, and Financing Activities
 
-Company Name
+## Tech Stack
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP
+- **Database:** MySQL
 
-TradingView chart link
+## Installation & Setup
+1. Clone this repository:
+   git clone https://github.com/Nehahahah/vodafone-idea-foundation.git
+   
+2. Configure the .env file with your database credentials.
+   
+3. Import the database schema into MySQL.
 
-Company description
+4. Start a local PHP server:
+   php -S localhost:8000
 
-Website and stock exchange profiles (NSE & BSE)
+5. Open http://localhost:8000/home.html in your browser.
 
-Face Value, Book Value, ROCE, and ROE
+**Contribution**
 
-**Profit & Loss (Last 13 Years):**
-
-Sales
-
-Operating Profit
-
-Net Profit
-
-EPS
-
-Dividend Payout %
-
-**Balance Sheet (Last 13 Years):**
-
-Equity Capital, Reserves, Borrowings, Total Liabilities, and Assets
-
-**Cash Flow (Last 13 Years):**
-
-Cash from Operating, Investing, and Financing Activities
+Contributions are welcome! Fork the repository, create a feature branch, and submit a pull request.
